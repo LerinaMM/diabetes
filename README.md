@@ -1,3 +1,6 @@
+![image](https://github.com/LerinaMM/diabetes/assets/83770121/69540f6f-8bdd-457b-aa65-32ec4c92ec39)
+
+
 # ✅ DIABETES
 
 # 📖 Conceito
