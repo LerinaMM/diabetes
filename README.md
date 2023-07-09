@@ -4,7 +4,7 @@
 
 É uma doença causada pela produção insuficiente ou má absorção de insulina, hormônio que regula a glicose no sangue e garante energia para o organismo. A insulina é um hormônio que tem a função de quebrar as moléculas de glicose (açúcar) transformando-a em energia para manutenção das células do nosso organismo. O diabetes pode causar o aumento da glicemia e as altas taxas podem levar a complicações no coração, nas artérias, nos olhos, nos rins e nos nervos. Em casos mais graves, o diabetes pode levar à morte.
 
-# 📖 Informações
+# 🧾 Informações
 
 ## Número de pessoas com diabetes mais que triplica em três décadas 
 
